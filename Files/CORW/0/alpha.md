@@ -1,4 +1,7 @@
+Alphabetical Listing of Selected Repositories
+=============================================
 
+Repositories are listed by repository name.
 
 C
 -
@@ -19,7 +22,7 @@ https://github.com/dmparrishphd/DivineProportionsCommentary
 )
 
 H
-_
+-
 
 [home](
 https://github.com/dmparrishphd/home
@@ -51,7 +54,7 @@ https://github.com/dmparrishphd/Python-3-Text-Processing
 )
 
 P
-_
+-
 
 [Python4th](
 https://github.com/dmparrishphd/Python4th
@@ -76,7 +79,7 @@ https://github.com/dmparrishphd/Shapiro
 )
 
 T
-_
+-
 
 [tRivia](
 https://github.com/dmparrishphd/tRivia
