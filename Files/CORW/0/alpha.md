@@ -74,8 +74,23 @@ https://github.com/dmparrishphd/repos
 S
 -
 
+Shapiro
+-------
+
 [Shapiro](
 https://github.com/dmparrishphd/Shapiro
+) (WORM)
+
+[Shapiro-CORW](
+https://github.com/dmparrishphd/Shapiro-CORW
+)
+
+[Shapiro-CORW](
+https://github.com/dmparrishphd/Shapiro-CORW
+)
+
+[Shapiro-DYNA](
+https://github.com/dmparrishphd/Shapiro-DYNA
 )
 
 T
