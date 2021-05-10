@@ -79,19 +79,19 @@ Shapiro
 
 [Shapiro](
 https://github.com/dmparrishphd/Shapiro
-) (WORM)
+) (WORM) _write once, read many times_
+
+[Shapiro-CORA](
+https://github.com/dmparrishphd/Shapiro-CORA
+) _create once, read and append many times_
 
 [Shapiro-CORW](
 https://github.com/dmparrishphd/Shapiro-CORW
-)
-
-[Shapiro-CORW](
-https://github.com/dmparrishphd/Shapiro-CORW
-)
+) _create once, read and write many times_
 
 [Shapiro-DYNA](
 https://github.com/dmparrishphd/Shapiro-DYNA
-)
+) _dynamic / volatile_
 
 T
 -
