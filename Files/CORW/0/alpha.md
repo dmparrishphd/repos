@@ -76,20 +76,12 @@ S
 
 ### Shapiro
 
-[-WORM](
-https://github.com/dmparrishphd/Shapiro
-) (WORM)
-[-CORA](
-https://github.com/dmparrishphd/Shapiro-CORA
-)
-[-CORW](
-https://github.com/dmparrishphd/Shapiro-CORW
-) 
-[-DYNA](
-https://github.com/dmparrishphd/Shapiro-DYNA
-)
+[-CORA](https://github.com/dmparrishphd/Shapiro-CORA),
+[-CORW](https://github.com/dmparrishphd/Shapiro-CORW),
+[-DYNA](https://github.com/dmparrishphd/Shapiro-DYNA),
+[-WORM](https://github.com/dmparrishphd/Shapiro)
 
-["CORA," "CORW," "DYNA," and "WORM"?](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md]
+["CORA" "CORW," "DYNA," and "WORM?"](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)
 
 T
 -
