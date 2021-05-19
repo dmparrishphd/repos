@@ -8,7 +8,7 @@ Abbreviations
 
 <a id="CORA">**CORA**</a>: create once, read and _append_ many times
 
-<a id="CORW">**CORA**</a>: create once, read and _write_ many times
+<a id="CORW">**CORW**</a>: create once, read and _write_ many times
 
 <a id="DYNA">**DYNA**</a>: dynamic / volatile (may change at any time)
 
