@@ -67,15 +67,12 @@ R
 https://github.com/dmparrishphd/Related
 )
 
-[repos](
-https://github.com/dmparrishphd/repos
-)
+[repos](https://github.com/dmparrishphd/repos)
 
 S
 -
 
-### Shapiro
-
+Shapiro
 [-CORA](https://github.com/dmparrishphd/Shapiro-CORA),
 [-CORW](https://github.com/dmparrishphd/Shapiro-CORW),
 [-DYNA](https://github.com/dmparrishphd/Shapiro-DYNA),
