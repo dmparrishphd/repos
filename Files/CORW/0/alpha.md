@@ -76,21 +76,20 @@ S
 
 ### Shapiro
 
-[Shapiro](
+[-WORM](
 https://github.com/dmparrishphd/Shapiro
-) (WORM) _write once, read many times_
-
-[Shapiro-CORA](
+) (WORM)
+[-CORA](
 https://github.com/dmparrishphd/Shapiro-CORA
-) _create once, read and append many times_
-
-[Shapiro-CORW](
+)
+[-CORW](
 https://github.com/dmparrishphd/Shapiro-CORW
-) _create once, read and write many times_
-
-[Shapiro-DYNA](
+) 
+[-DYNA](
 https://github.com/dmparrishphd/Shapiro-DYNA
-) _dynamic / volatile_
+)
+
+["CORA," "CORW," "DYNA," and "WORM"?](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#CORA]
 
 T
 -
@@ -98,3 +97,4 @@ T
 [tRivia](
 https://github.com/dmparrishphd/tRivia
 )
+
