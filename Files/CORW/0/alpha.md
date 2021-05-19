@@ -3,6 +3,11 @@ Alphabetical Listing of Selected Repositories
 
 Repositories are listed by repository name.
 
+A
+_
+
+[aRith](https://github.com/dmparrishphd/aRith)
+
 C
 -
 
@@ -32,6 +37,11 @@ https://github.com/dmparrishphd/home
 https://github.com/dmparrishphd/HP35s
 )
 
+I
+-
+
+[ispRint](https://github.com/dmparrishphd/ispRint)
+
 M
 -
 
@@ -45,9 +55,6 @@ N
 [neatOveRse](
 https://github.com/dmparrishphd/neatOveRse
 )
-
-P
--
 
 [Python-3-Text-Processing](
 https://github.com/dmparrishphd/Python-3-Text-Processing
@@ -73,6 +80,7 @@ S
 -
 
 Shapiro
+[main](https://github.com/dmparrishphd/Shapiro),
 [-CORA](https://github.com/dmparrishphd/Shapiro-CORA),
 [-CORW](https://github.com/dmparrishphd/Shapiro-CORW),
 [-DYNA](https://github.com/dmparrishphd/Shapiro-DYNA),
@@ -86,4 +94,6 @@ T
 [tRivia](
 https://github.com/dmparrishphd/tRivia
 )
+
+[-CORW](https://github.com/dmparrishphd/tRivia-CORW)
 
