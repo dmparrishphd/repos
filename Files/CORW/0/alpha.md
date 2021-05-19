@@ -89,7 +89,7 @@ https://github.com/dmparrishphd/Shapiro-CORW
 https://github.com/dmparrishphd/Shapiro-DYNA
 )
 
-["CORA," "CORW," "DYNA," and "WORM"?](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#CORA]
+["CORA," "CORW," "DYNA," and "WORM"?](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md]
 
 T
 -
