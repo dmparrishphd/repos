@@ -1,10 +1,8 @@
 Alphabetical Listing of Selected Repositories
 =============================================
 
-Repositories are below listed by repository name.
-
-Abbreviations include
-[CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)
+_Repositories are listed by repository name. Abbreviations include
+[CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)_
 
 
 A
