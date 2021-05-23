@@ -8,7 +8,7 @@ Abbreviations include
 
 
 A
-_
+-
 
 [aRith](https://github.com/dmparrishphd/aRith)
 
