@@ -38,6 +38,7 @@ E
 
 exceRpt
 [main](https://github.com/dmparrishphd/exceRpt)
+[-CORW](https://github.com/dmparrishphd/exceRpt)
 [-WORM](https://github.com/dmparrishphd/exceRpt-WORM)
 _Extract specific lines from text files._
 
