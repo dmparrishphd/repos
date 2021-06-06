@@ -33,6 +33,11 @@ D
 https://github.com/dmparrishphd/DivineProportionsCommentary
 )
 
+E
+-
+
+[exceRpt](https://github.com/dmparrishphd/exceRpt) _Extract specific lines from text files._
+
 H
 -
 
