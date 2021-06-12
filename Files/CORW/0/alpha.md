@@ -86,6 +86,10 @@ https://github.com/dmparrishphd/Python4th
 R
 -
 
+read.R_code
+[main](https://github.com/dmparrishphd/read.R_code),
+[-CORW](https://github.com/dmparrishphd/read.R_code)
+
 [Related](
 https://github.com/dmparrishphd/Related
 )
