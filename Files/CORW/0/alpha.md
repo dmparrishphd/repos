@@ -97,8 +97,9 @@ https://github.com/dmparrishphd/Related
 
 [repos](https://github.com/dmparrishphd/repos)
 
-running, _running averages, etc._
-[-DYNA](https://github.com/dmparrishphd/running-DYNA)
+running
+[-DYNA](https://github.com/dmparrishphd/running-DYNA),
+_running averages, etc._
 
 S
 -
