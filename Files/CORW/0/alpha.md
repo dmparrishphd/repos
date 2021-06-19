@@ -18,20 +18,14 @@ cfgcsv
 [-CORW](https://github.com/dmparrishphd/cfgcsv-CORW)
 [-WORM](https://github.com/dmparrishphd/cfgcsv-WORM)
 
-[cIsForChildren](
-https://github.com/dmparrishphd/cIsForChildren
-)
+[cIsForChildren](https://github.com/dmparrishphd/cIsForChildren)
 
-[click](
-https://github.com/dmparrishphd/click
-)
+[click](https://github.com/dmparrishphd/click)
 
 D
 -
 
-[DivineProportionsCommentary](
-https://github.com/dmparrishphd/DivineProportionsCommentary
-)
+[DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 
 E
 -
@@ -45,13 +39,9 @@ _Extract specific lines from text files._
 H
 -
 
-[home](
-https://github.com/dmparrishphd/home
-)
+[home](https://github.com/dmparrishphd/home)
 
-[HP35s](
-https://github.com/dmparrishphd/HP35s
-)
+[HP35s](https://github.com/dmparrishphd/HP35s)
 
 I
 -
@@ -61,39 +51,29 @@ I
 M
 -
 
-[myVim](
-https://github.com/dmparrishphd/myVim
-)
+[myVim](https://github.com/dmparrishphd/myVim)
 
 N
 -
 
-[neatOveRse](
-https://github.com/dmparrishphd/neatOveRse
-)
+[neatOveRse](https://github.com/dmparrishphd/neatOveRse)
 
-[Python-3-Text-Processing](
-https://github.com/dmparrishphd/Python-3-Text-Processing
-)
+[Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
 P
 -
 
-[Python4th](
-https://github.com/dmparrishphd/Python4th
-)
+[Python4th](https://github.com/dmparrishphd/Python4th)
 
 R
 -
 
 read.R_code
 [main](https://github.com/dmparrishphd/read.R_code),
-[-CORW](https://github.com/dmparrishphd/read.R_code)
-[-worm](https://github.com/dmparrishphd/read.R_code-WORM)
+[-CORW](https://github.com/dmparrishphd/read.R_code),
+[-WORM](https://github.com/dmparrishphd/read.R_code-WORM)
 
-[Related](
-https://github.com/dmparrishphd/Related
-)
+[Related](https://github.com/dmparrishphd/Related)
 
 [repos](https://github.com/dmparrishphd/repos)
 
@@ -120,6 +100,6 @@ T
 -
 
 tRivia
-[main](https://github.com/dmparrishphd/tRivia)
+[main](https://github.com/dmparrishphd/tRivia),
 [-CORW](https://github.com/dmparrishphd/tRivia-CORW)
 
