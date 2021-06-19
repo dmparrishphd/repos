@@ -71,6 +71,7 @@ R
 read.R_code
 [main](https://github.com/dmparrishphd/read.R_code),
 [-CORW](https://github.com/dmparrishphd/read.R_code),
+[-DYNA](https://github.com/dmparrishphd/read.R_code-DYNA),
 [-WORM](https://github.com/dmparrishphd/read.R_code-WORM)
 
 [Related](https://github.com/dmparrishphd/Related)
