@@ -65,6 +65,12 @@ P
 
 [Python4th](https://github.com/dmparrishphd/Python4th)
 
+Q
+-
+
+[quadrances](https://github.com/dmparrishphd/quadrances)
+_compute quadrances between two sets of points._
+
 R
 -
 
