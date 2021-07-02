@@ -80,6 +80,12 @@ read.R_code
 [-DYNA](https://github.com/dmparrishphd/read.R_code-DYNA),
 [-WORM](https://github.com/dmparrishphd/read.R_code-WORM)
 
+refinePolyline
+[main](https://github.com/dmparrishphd/refinePolyline-CORW),
+[-CORW](https://github.com/dmparrishphd/refinePolyline-CORW),
+[-WORM](https://github.com/dmparrishphd/refinePolyline-WORM)
+_create polylines with additional vertices_
+
 [Related](https://github.com/dmparrishphd/Related)
 
 [repos](https://github.com/dmparrishphd/repos)
