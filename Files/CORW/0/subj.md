@@ -24,6 +24,14 @@ _compute quadrances between two sets of points._
 
 [-WORM](https://github.com/dmparrishphd/quadrances)
 
+### Proximity
+
+matchNearest
+[main](https://github.com/dmparrishphd/matchNearest-CORW),
+[-CORW](https://github.com/dmparrishphd/matchNearest-CORW),
+[-WORM](https://github.com/dmparrishphd/matchNearest-WORM)
+_find points in one table which are nearest to points in another_
+
 GIS
 ---
 
