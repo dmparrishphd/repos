@@ -9,6 +9,15 @@ File Formats
 [cfgcsv](https://github.com/dmparrishphd/cfgcsv-CORW)
 _A CSV configuration file format_
 
+Geometry
+--------
+
+### quadrances
+
+_compute quadrances between two sets of points._
+
+[-WORM](https://github.com/dmparrishphd/quadrances)
+
 GIS
 ---
 
