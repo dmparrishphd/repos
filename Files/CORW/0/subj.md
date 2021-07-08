@@ -12,6 +12,12 @@ _A CSV configuration file format_
 Geometry
 --------
 
+### DivineProportionsCommentary
+
+_Commentary on the book by Norman Wildberger_
+
+[repository](https://github.com/dmparrishphd/DivineProportionsCommentary)
+
 ### quadrances
 
 _compute quadrances between two sets of points._
