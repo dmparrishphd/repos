@@ -68,7 +68,7 @@ P
 Q
 -
 
-[quadrances](https://github.com/dmparrishphd/quadrances)
+quadrances [-WORM](https://github.com/dmparrishphd/quadrances)
 _compute quadrances between two sets of points._
 
 R
