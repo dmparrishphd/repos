@@ -42,3 +42,11 @@ refinePolyline
 [-CORW](https://github.com/dmparrishphd/refinePolyline-CORW),
 [-WORM](https://github.com/dmparrishphd/refinePolyline-WORM)
 _create polylines with additional vertices_
+
+Matrices
+--------
+
+crapply
+[-CORW](https://github.com/dmparrishphd/crapply-CORW),
+[-WORM](https://github.com/dmparrishphd/crapply-WORM)
+_apply functions to columns or rows of a matrix_
