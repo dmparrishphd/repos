@@ -13,6 +13,11 @@ A
 C
 -
 
+crapply
+[-CORW](https://github.com/dmparrishphd/crapply-CORW),
+[-WORM](https://github.com/dmparrishphd/crapply-WORM)
+_apply functions to columns or rows of a matrix_
+
 cfgcsv
 [main](https://github.com/dmparrishphd/cfgcsv-CORW)
 [-CORW](https://github.com/dmparrishphd/cfgcsv-CORW)
