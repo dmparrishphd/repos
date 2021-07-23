@@ -33,7 +33,10 @@ D
 [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 
 discreteVoronoiDiagram
+[main](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
 [-CORW](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+[-WORM](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+_tabulate information for discrete Voronoi diagrams_
 
 E
 -
