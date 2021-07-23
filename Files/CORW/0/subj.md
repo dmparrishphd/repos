@@ -32,6 +32,18 @@ matchNearest
 [-WORM](https://github.com/dmparrishphd/matchNearest-WORM)
 _find points in one table which are nearest to points in another_
 
+### Thiessen polygons
+
+See Voronoi Diagram
+
+### Voronoi Diagram
+
+discreteVoronoiDiagram
+[main](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+[-CORW](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+[-WORM](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+_tabulate information for discrete Voronoi diagrams_
+
 GIS
 ---
 
