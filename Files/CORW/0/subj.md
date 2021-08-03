@@ -55,6 +55,11 @@ refinePolyline
 [-WORM](https://github.com/dmparrishphd/refinePolyline-WORM)
 _create polylines with additional vertices_
 
+MODFLOW
+-------
+
+See the [MODFLOW subject index](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/subj.modflow.md)
+
 Matrices
 --------
 
