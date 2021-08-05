@@ -5,7 +5,8 @@ Storage Disciplines
 -------------------
 
 
-<a id="storageDiscipline"></a> Files, and sometimes entire repositories, typically follow a certain discipline with regard to the content:
+<a id="storageDiscipline"></a><!-- DO NOT MOVE storageDiscipline ANCHOR: EXTERNAL LINKS MAY REFERENCE IT -->
+Files, and sometimes entire repositories, typically follow a certain discipline with regard to the content:
 
 <a id="CORA">**CORA**</a>: create once, read and _append_ many times
 
