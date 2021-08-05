@@ -13,6 +13,12 @@ A
 C
 -
 
+constrainedExtremaSimple
+[main](https://github.com/dmparrishphd/constrainedExtremaSimple-CORW)
+[-CORW](https://github.com/dmparrishphd/constrainedExtremaSimple-CORW)
+[-WORM](https://github.com/dmparrishphd/constrainedExtremaSimple-WORM)
+_functions for solving simple constrained extrema problems (mingt, minge, maxlt, maxle)_
+
 crapply
 [-CORW](https://github.com/dmparrishphd/crapply-CORW),
 [-WORM](https://github.com/dmparrishphd/crapply-WORM)
