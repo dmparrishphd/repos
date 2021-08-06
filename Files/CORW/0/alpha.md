@@ -10,6 +10,15 @@ A
 
 [aRith](https://github.com/dmparrishphd/aRith)
 
+B
+-
+
+buildEnv
+([main](https://github.com/dmparrishphd/buildEnv-CORW)
+[-CORW](https://github.com/dmparrishphd/buildEnv-CORW)
+[-WORM](https://github.com/dmparrishphd/buildEnv-WORM))
+_Build R environments_
+
 C
 -
 
