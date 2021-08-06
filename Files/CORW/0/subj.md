@@ -9,6 +9,15 @@ File Formats
 [cfgcsv](https://github.com/dmparrishphd/cfgcsv-CORW)
 _A CSV configuration file format_
 
+Environments
+------------
+
+buildEnv
+([main](https://github.com/dmparrishphd/buildEnv-CORW)
+[-CORW](https://github.com/dmparrishphd/buildEnv-CORW)
+[-WORM](https://github.com/dmparrishphd/buildEnv-WORM))
+_Build R environments_
+
 Geometry
 --------
 
