@@ -13,6 +13,12 @@ A
 B
 -
 
+beyondDivineProportions
+([main](https://github.com/dmparrishphd/beyondDivineProportions-CORW)
+[-CORW](https://github.com/dmparrishphd/beyondDivineProportions-CORW)
+[-WORM](https://github.com/dmparrishphd/beyondDivineProportions))
+_notes on super-rational computational geometry_
+
 buildEnv
 ([main](https://github.com/dmparrishphd/buildEnv-CORW)
 [-CORW](https://github.com/dmparrishphd/buildEnv-CORW)
