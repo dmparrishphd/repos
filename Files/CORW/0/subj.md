@@ -21,24 +21,19 @@ _Build R environments_
 Geometry
 --------
 
-### DivineProportionsCommentary
-
+[DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 _Commentary on the book by Norman Wildberger_
 
-[repository](https://github.com/dmparrishphd/DivineProportionsCommentary)
-
-### quadrances
-
+quadrances
+([-WORM](https://github.com/dmparrishphd/quadrances))
 _compute quadrances between two sets of points._
-
-[-WORM](https://github.com/dmparrishphd/quadrances)
 
 ### Proximity
 
 matchNearest
-[main](https://github.com/dmparrishphd/matchNearest-CORW),
+([main](https://github.com/dmparrishphd/matchNearest-CORW),
 [-CORW](https://github.com/dmparrishphd/matchNearest-CORW),
-[-WORM](https://github.com/dmparrishphd/matchNearest-WORM)
+[-WORM](https://github.com/dmparrishphd/matchNearest-WORM))
 _find points in one table which are nearest to points in another_
 
 ### Thiessen polygons
@@ -59,9 +54,9 @@ GIS
 ### Polylines
 
 refinePolyline
-[main](https://github.com/dmparrishphd/refinePolyline-CORW),
+([main](https://github.com/dmparrishphd/refinePolyline-CORW),
 [-CORW](https://github.com/dmparrishphd/refinePolyline-CORW),
-[-WORM](https://github.com/dmparrishphd/refinePolyline-WORM)
+[-WORM](https://github.com/dmparrishphd/refinePolyline-WORM))
 _create polylines with additional vertices_
 
 MODFLOW
@@ -73,6 +68,6 @@ Matrices
 --------
 
 crapply
-[-CORW](https://github.com/dmparrishphd/crapply-CORW),
-[-WORM](https://github.com/dmparrishphd/crapply-WORM)
+([-CORW](https://github.com/dmparrishphd/crapply-CORW),
+[-WORM](https://github.com/dmparrishphd/crapply-WORM))
 _apply functions to columns or rows of a matrix_
