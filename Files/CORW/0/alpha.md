@@ -106,6 +106,12 @@ N
 P
 -
 
+pal
+([main](https://github.com/dmparrishphd/pal-CORW),
+[-CORW](https://github.com/dmparrishphd/pal-CORW),
+[-WORM](https://github.com/dmparrishphd/pal-WORM))
+_various color palettes_
+
 Program for Universal Computational Freedom, The
 [-CORW](https://github.com/dmparrishphd/pUCF-CORW)
 
