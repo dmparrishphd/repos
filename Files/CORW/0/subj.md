@@ -13,8 +13,8 @@ Environments
 ------------
 
 buildEnv
-([main](https://github.com/dmparrishphd/buildEnv-CORW)
-[-CORW](https://github.com/dmparrishphd/buildEnv-CORW)
+([main](https://github.com/dmparrishphd/buildEnv-CORW),
+[-CORW](https://github.com/dmparrishphd/buildEnv-CORW),
 [-WORM](https://github.com/dmparrishphd/buildEnv-WORM))
 _Build R environments_
 
@@ -43,9 +43,9 @@ See Voronoi Diagram
 ### Voronoi Diagram
 
 discreteVoronoiDiagram
-[main](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
-[-CORW](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
-[-WORM](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
+([main](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW),
+[-CORW](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW),
+[-WORM](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW))
 _tabulate information for discrete Voronoi diagrams_
 
 GIS
