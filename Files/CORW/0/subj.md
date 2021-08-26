@@ -1,13 +1,14 @@
 Listing of Selected Repositories by Subject
 ===========================================
 
-File Formats
-------------
+Color
+-----
 
-### CSV
-
-[cfgcsv](https://github.com/dmparrishphd/cfgcsv-CORW)
-_A CSV configuration file format_
+pal
+([main](https://github.com/dmparrishphd/pal-CORW),
+[-CORW](https://github.com/dmparrishphd/pal-CORW),
+[-WORM](https://github.com/dmparrishphd/pal-WORM))
+_various color palettes_
 
 Environments
 ------------
@@ -17,6 +18,14 @@ buildEnv
 [-CORW](https://github.com/dmparrishphd/buildEnv-CORW),
 [-WORM](https://github.com/dmparrishphd/buildEnv-WORM))
 _Build R environments_
+
+File Formats
+------------
+
+### CSV
+
+[cfgcsv](https://github.com/dmparrishphd/cfgcsv-CORW)
+_A CSV configuration file format_
 
 Geometry
 --------
