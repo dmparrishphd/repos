@@ -114,6 +114,7 @@ _various color palettes_
 
 Program for Universal Computational Freedom, The
 [-CORW](https://github.com/dmparrishphd/pUCF-CORW)
+[-WORM](https://github.com/dmparrishphd/pUCF-WORM)
 
 
 [Python4th](https://github.com/dmparrishphd/Python4th)
