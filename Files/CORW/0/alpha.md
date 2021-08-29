@@ -112,10 +112,13 @@ pal
 [-WORM](https://github.com/dmparrishphd/pal-WORM))
 _various color palettes_
 
-Program for Universal Computational Freedom, The
-[-CORW](https://github.com/dmparrishphd/pUCF-CORW)
-[-WORM](https://github.com/dmparrishphd/pUCF-WORM)
+### Program for Universal Computational Freedom, The
 
+main[-CORW](https://github.com/dmparrishphd/pUCF-CORW)
+
+Project "G"
+[-CORW](https://github.com/dmparrishphd/pUCF-G-CORW)
+[-WORM](https://github.com/dmparrishphd/pUCF-G-WORM)
 
 [Python4th](https://github.com/dmparrishphd/Python4th)
 
