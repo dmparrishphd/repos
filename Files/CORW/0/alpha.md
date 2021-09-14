@@ -166,6 +166,9 @@ source.call
 [-CORW](https://github.com/dmparrishphd/source.call-CORW),
 [-WORM](https://github.com/dmparrishphd/source.call-WORM)
 
+subarray
+[-CORW](https://github.com/dmparrishphd/subarray-CORW)
+
 T
 -
 
