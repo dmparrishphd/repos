@@ -1,6 +1,12 @@
 Listing of Selected Repositories by Subject
 ===========================================
 
+Code
+----
+
+[cleaneR code](https://github.com/dmparrishphd/cleaneR-code-CORW)
+_Some tips for writing legible code, with emphasis on R_
+
 Color
 -----
 
@@ -80,3 +86,8 @@ crapply
 ([-CORW](https://github.com/dmparrishphd/crapply-CORW),
 [-WORM](https://github.com/dmparrishphd/crapply-WORM))
 _apply functions to columns or rows of a matrix_
+
+Source Code
+-----------
+
+_See_ Code.
