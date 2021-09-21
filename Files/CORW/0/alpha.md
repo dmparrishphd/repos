@@ -29,6 +29,7 @@ C
 -
 
 [cleaneR code](https://github.com/dmparrishphd/cleaneR-code-CORW)
+_Some tips for writing legible code, with emphasis on R_
 
 constrainedExtremaSimple
 [main](https://github.com/dmparrishphd/constrainedExtremaSimple-CORW)
