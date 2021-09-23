@@ -81,6 +81,10 @@ H
 I
 -
 
+include-py
+[-CORW](https://github.com/dmparrishphd/include-py-CORW)
+[-WORM](https://github.com/dmparrishphd/include-py-WORM)
+
 [ispRint](https://github.com/dmparrishphd/ispRint)
 
 M
