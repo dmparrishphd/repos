@@ -77,6 +77,7 @@ H
 [home](https://github.com/dmparrishphd/home)
 
 [HP35s](https://github.com/dmparrishphd/HP35s)
+_Programs, etc. for the HP 35s Scientific Calculator_
 
 I
 -
@@ -178,6 +179,8 @@ subarray
 
 T
 -
+
+[testRepo](https://github.com/dmparrishphd/testRepo)
 
 tRivia
 [main](https://github.com/dmparrishphd/tRivia),
