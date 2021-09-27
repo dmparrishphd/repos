@@ -54,6 +54,13 @@ cfgcsv
 D
 -
 
+dayBefore
+[-CORW](https://github.com/dmparrishphd/dayBefore-Py)
+[-WORM](https://github.com/dmparrishphd/dayBefore-Py-WORM)
+_Compute the day before a given day on the proleptic Gregorian calendar._
+
+
+
 [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 
 discreteVoronoiDiagram
