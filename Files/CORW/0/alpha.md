@@ -54,6 +54,11 @@ cfgcsv
 D
 -
 
+dayAfter
+[-CORW](https://github.com/dmparrishphd/dayAfter-Py-CORW)
+[-WORM](https://github.com/dmparrishphd/dayAfter-Py-WORM)
+_Compute the day after a given day on the proleptic Gregorian calendar._
+
 dayBefore
 [-CORW](https://github.com/dmparrishphd/dayBefore-Py)
 [-WORM](https://github.com/dmparrishphd/dayBefore-Py-WORM)
