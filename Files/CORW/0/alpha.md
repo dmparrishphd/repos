@@ -75,6 +75,9 @@ _tabulate information for discrete Voronoi diagrams_
 E
 -
 
+[endnotesAndFootnotesAndParentheticalsOhMy](https://github.com/dmparrishphd/endnotesAndFootnotesAndParentheticalsOhMy)
+_Describes an alternative to endnotes, footnotes, or parenthetical notes_
+
 exceRpt
 [main](https://github.com/dmparrishphd/exceRpt)
 [-CORW](https://github.com/dmparrishphd/exceRpt)
