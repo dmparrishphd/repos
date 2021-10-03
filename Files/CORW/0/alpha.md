@@ -8,7 +8,9 @@ _Repositories are listed by repository name. Abbreviations include
 A
 -
 
-[aRith](https://github.com/dmparrishphd/aRith)
+aRith
+[-CORW](https://github.com/dmparrishphd/aRith)
+[-WORM](https://github.com/dmparrishphd/aRith-WORM)
 
 B
 -
