@@ -11,6 +11,7 @@ A
 aRith
 [-CORW](https://github.com/dmparrishphd/aRith)
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
+_arbitrary-precision integer arithmetic_
 
 B
 -
