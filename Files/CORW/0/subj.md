@@ -1,6 +1,14 @@
 Listing of Selected Repositories by Subject
 ===========================================
 
+Arithmetic
+----------
+
+aRith
+[-CORW](https://github.com/dmparrishphd/aRith)
+[-WORM](https://github.com/dmparrishphd/aRith-WORM)
+_arbitrary-precision integer arithmetic_
+
 Code
 ----
 
@@ -74,10 +82,10 @@ refinePolyline
 [-WORM](https://github.com/dmparrishphd/refinePolyline-WORM))
 _create polylines with additional vertices_
 
-MODFLOW
--------
+Math
+----
 
-See the [MODFLOW subject index](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/subj.modflow.md)
+_See_ Arithmetic, Geometry, etc.
 
 Matrices
 --------
@@ -86,6 +94,11 @@ crapply
 ([-CORW](https://github.com/dmparrishphd/crapply-CORW),
 [-WORM](https://github.com/dmparrishphd/crapply-WORM))
 _apply functions to columns or rows of a matrix_
+
+MODFLOW
+-------
+
+See the [MODFLOW subject index](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/subj.modflow.md)
 
 Source Code
 -----------
