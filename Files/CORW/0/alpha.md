@@ -178,6 +178,8 @@ _running averages, etc._
 S
 -
 
+[scratch](https://github.com/dmparrishphd/scratch)
+
 Shapiro
 [main](https://github.com/dmparrishphd/Shapiro),
 [-CORA](https://github.com/dmparrishphd/Shapiro-CORA),
