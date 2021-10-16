@@ -87,6 +87,14 @@ exceRpt
 [-WORM](https://github.com/dmparrishphd/exceRpt-WORM)
 _Extract specific lines from text files._
 
+F
+-
+
+fontsize
+[-CORW](https://github.com/dmparrishphd/fontsize-CORW)
+[-WORM](https://github.com/dmparrishphd/fontsize-WORM)
+_schemes for aesthetic font sizes_
+
 H
 -
 
