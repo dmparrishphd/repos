@@ -112,6 +112,12 @@ include-py
 
 [ispRint](https://github.com/dmparrishphd/ispRint)
 
+J
+-
+
+jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
+_Convert Julian Day Number to proleptic Gregorian calendar date_
+
 M
 -
 
