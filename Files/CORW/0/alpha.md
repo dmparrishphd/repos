@@ -95,6 +95,12 @@ fontsize
 [-WORM](https://github.com/dmparrishphd/fontsize-WORM)
 _schemes for aesthetic font sizes_
 
+G
+-
+
+gd [-CORW](https://github.com/dmparrishphd/gd-CORW)
+_gd is not Markdown._
+
 H
 -
 
