@@ -217,6 +217,7 @@ subarray
 
 sv
 [-CORW](https://github.com/dmparrishphd/sv-CORW)
+[-WORM](https://github.com/dmparrishphd/sv-WORM)
 _separated variables format_
 
 T
