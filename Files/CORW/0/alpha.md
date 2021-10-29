@@ -215,6 +215,10 @@ source.call
 subarray
 [-CORW](https://github.com/dmparrishphd/subarray-CORW)
 
+sv
+[-CORW](https://github.com/dmparrishphd/sv-CORW)
+_separated variables format_
+
 T
 -
 
