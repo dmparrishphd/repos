@@ -67,6 +67,10 @@ dayBefore
 [-WORM](https://github.com/dmparrishphd/dayBefore-Py-WORM)
 _Compute the day before a given day on the proleptic Gregorian calendar._
 
+deflate
+[-CORW](https://github.com/dmparrishphd/deflate-CORW)
+_(partial) implementation(s) of DEFLATE_
+
 [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 
 discreteVoronoiDiagram
