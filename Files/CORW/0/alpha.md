@@ -8,6 +8,10 @@ _Repositories are listed by repository name. Abbreviations include
 A
 -
 
+aha
+[-CORW](https://github.com/dmparrishphd/aha-CORW)
+[-WORM](https://github.com/dmparrishphd/aha-WORM)
+
 aRith
 [-CORW](https://github.com/dmparrishphd/aRith)
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
