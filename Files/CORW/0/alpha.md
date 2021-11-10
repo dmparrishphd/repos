@@ -99,6 +99,11 @@ _Extract specific lines from text files._
 F
 -
 
+fhexdigest
+[-CORW](https://github.com/dmparrishphd/fhexdigest-CORW)
+[-WORM](https://github.com/dmparrishphd/fhexdigest-WORM)
+_Compute representations of hash digests of the contents of binary files_
+
 fontsize
 [-CORW](https://github.com/dmparrishphd/fontsize-CORW)
 [-WORM](https://github.com/dmparrishphd/fontsize-WORM)
