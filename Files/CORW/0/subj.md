@@ -9,6 +9,24 @@ aRith
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
 _arbitrary-precision integer arithmetic_
 
+Calendars
+---------
+
+### Gregorian calendar, proleptic
+
+#### Leap Year
+
+isLeapYear-Py
+[-CORW](https://github.com/dmparrishphd/isLeapYear-Py-CORW)
+[-WORM](https://github.com/dmparrishphd/isLeapYear-Py-WORM)
+_Compute whether a given year is a leap year on the proleptic Gregorian calendar_
+
+#### Julian Day Number
+
+jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
+_Convert Julian Day Number to proleptic Gregorian calendar date_
+
+
 Code
 ----
 
