@@ -130,6 +130,11 @@ include-py
 [-CORW](https://github.com/dmparrishphd/include-py-CORW)
 [-WORM](https://github.com/dmparrishphd/include-py-WORM)
 
+isLeapYear-Py
+[-CORW](https://github.com/dmparrishphd/isLeapYear-Py-CORW)
+[-WORM](https://github.com/dmparrishphd/isLeapYear-Py-WORM)
+_Compute whether a given year is a leap year on the proleptic Gregorian calendar_
+
 [ispRint](https://github.com/dmparrishphd/ispRint)
 
 J
