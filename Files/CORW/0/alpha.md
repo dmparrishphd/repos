@@ -210,6 +210,10 @@ _create polylines with additional vertices_
 
 [repos](https://github.com/dmparrishphd/repos)
 
+ring-buffer
+[-CORW](https://github.com/dmparrishphd/ring-buffer-CORW)
+_ring buffers_
+
 running
 [-DYNA](https://github.com/dmparrishphd/running-DYNA),
 _running averages, etc._
