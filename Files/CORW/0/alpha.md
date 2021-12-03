@@ -230,6 +230,11 @@ Shapiro
 [-DYNA](https://github.com/dmparrishphd/Shapiro-DYNA),
 [-WORM](https://github.com/dmparrishphd/Shapiro)
 
+smtm
+[-CORW](https://github.com/dmparrishphd/smtm-CORW)
+[-WORM](https://github.com/dmparrishphd/smtm-WORM)
+_service mark and trademark_
+
 source.call
 [main](https://github.com/dmparrishphd/source.call-CORW),
 [-CORW](https://github.com/dmparrishphd/source.call-CORW),
