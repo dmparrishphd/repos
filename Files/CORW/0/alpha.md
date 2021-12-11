@@ -164,16 +164,20 @@ N
 
 [neatOveRse](https://github.com/dmparrishphd/neatOveRse)
 
-[Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
+nohurt
+[-CORW](https://github.com/dmparrishphd/nohurt-CORW)
+_HUman Readable Tables_
 
 P
 -
 
 pal
-([main](https://github.com/dmparrishphd/pal-CORW),
+[main](https://github.com/dmparrishphd/pal-CORW),
 [-CORW](https://github.com/dmparrishphd/pal-CORW),
-[-WORM](https://github.com/dmparrishphd/pal-WORM))
+[-WORM](https://github.com/dmparrishphd/pal-WORM)
 _various color palettes_
+
+[Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
 ### Program for Universal Computational Freedom, The
 
