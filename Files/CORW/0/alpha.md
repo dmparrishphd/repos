@@ -111,6 +111,7 @@ _schemes for aesthetic font sizes_
 
 form-uuid4-31
 [-CORW](https://github.com/dmparrishphd/form-uuid4-31-CORW)
+[-WORM](https://github.com/dmparrishphd/form-uuid4-31-WORM)
 _A compact format for UUID4_
 
 G
