@@ -226,6 +226,10 @@ ring-buffer
 [-CORW](https://github.com/dmparrishphd/ring-buffer-CORW)
 _ring buffers_
 
+roundUp
+[-CORW](https://github.com/dmparrishphd/roundUp-CORW)
+_round up to nearest multiple_
+
 running
 [-DYNA](https://github.com/dmparrishphd/running-DYNA),
 _running averages, etc._
