@@ -162,6 +162,9 @@ mfHDS
 [-WORM](https://github.com/dmparrishphd/mfHDS-WORM)
 _MODFLOW Binary Heads Interface_
 
+[michael](https://github.com/dmparrishphd/michael)
+_About the author_
+
 [myVim](https://github.com/dmparrishphd/myVim)
 
 N
