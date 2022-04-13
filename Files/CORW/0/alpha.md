@@ -281,6 +281,7 @@ U
 
 - un
 [-CORW](https://github.com/dmparrishphd/un-CORW)
+_logical negation_
 
 W
 -
