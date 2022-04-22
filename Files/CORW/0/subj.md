@@ -33,6 +33,9 @@ Code
 [cleaneR code](https://github.com/dmparrishphd/cleaneR-code-CORW)
 _Some tips for writing legible code, with emphasis on R_
 
+- code-katas
+[-CORW](https://github.com/dmparrishphd/code-katas-CORW)
+
 Color
 -----
 
