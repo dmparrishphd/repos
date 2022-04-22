@@ -59,6 +59,9 @@ _apply functions to columns or rows of a matrix_
 
 - [click](https://github.com/dmparrishphd/click)
 
+- code-katas
+[-CORW](https://github.com/dmparrishphd/code-katas-CORW)
+
 D
 -
 
