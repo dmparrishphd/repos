@@ -188,6 +188,9 @@ P
 [-WORM](https://github.com/dmparrishphd/pal-WORM)
 _various color palettes_
 
+pal-ocean
+[-WORM](https://github.com/dmparrishphd/pal-ocean-WORM)
+
 - [Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
 ### Program for Universal Computational Freedom, The
