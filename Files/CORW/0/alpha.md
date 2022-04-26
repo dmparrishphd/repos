@@ -188,8 +188,10 @@ P
 [-WORM](https://github.com/dmparrishphd/pal-WORM)
 _various color palettes_
 
-pal-ocean
+- pal-ocean
+[-CORW](https://github.com/dmparrishphd/pal-ocean-CORW)
 [-WORM](https://github.com/dmparrishphd/pal-ocean-WORM)
+_A palette for visualizing bathymetry_
 
 - [Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
