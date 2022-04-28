@@ -297,3 +297,8 @@ W
 [-CORW](https://github.com/dmparrishphd/wt-CORW),
 [-WORM](https://github.com/dmparrishphd/wt-WORM)
 _A package dealing with weights, as in "weighted average"_
+
+- words
+[-WORM](https://github.com/dmparrishphd/words-WORM)
+[-CORW](https://github.com/dmparrishphd/words-CORW)
+_Create a character vector of words from a string._
