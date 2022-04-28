@@ -121,6 +121,12 @@ MODFLOW
 
 See the [MODFLOW subject index](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/subj.modflow.md)
 
+Mouse
+-----
+
+[click](https://github.com/dmparrishphd/click)
+_Capture mouse clicks in R_
+
 Source Code
 -----------
 
