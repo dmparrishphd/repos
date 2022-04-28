@@ -58,6 +58,7 @@ _apply functions to columns or rows of a matrix_
 - [cIsForChildren](https://github.com/dmparrishphd/cIsForChildren)
 
 - [click](https://github.com/dmparrishphd/click)
+_Capture mouse clicks in R_
 
 - code-katas
 [-CORW](https://github.com/dmparrishphd/code-katas-CORW)
