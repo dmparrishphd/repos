@@ -198,6 +198,10 @@ _A palette for visualizing bathymetry_
 [-CORW](https://github.com/dmparrishphd/panzoom-CORW)
 [-WORM](https://github.com/dmparrishphd/panzoom-WORM)
 
+- parp
+[-CORW](https://github.com/dmparrishphd/parp-CORW)
+[-WORM](https://github.com/dmparrishphd/parp-WORM)
+
 - [Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
 ### Program for Universal Computational Freedom, The
