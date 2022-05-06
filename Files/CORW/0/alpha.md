@@ -91,6 +91,7 @@ _tabulate information for discrete Voronoi diagrams_
 - direction.xy
 [-CORW](https://github.com/dmparrishphd/direction.xy-CORW)
 [-WORM](https://github.com/dmparrishphd/direction.xy-WORM)
+_Compute Cartesian directions_
 
 E
 -
