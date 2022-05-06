@@ -70,10 +70,10 @@ Geometry
 [-WORM](https://github.com/dmparrishphd/direction.xy-WORM)
 _Compute Cartesian directions_
 
-[DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
+- [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 _Commentary on the book by Norman Wildberger_
 
-quadrances
+- quadrances
 ([-WORM](https://github.com/dmparrishphd/quadrances))
 _compute quadrances between two sets of points._
 
