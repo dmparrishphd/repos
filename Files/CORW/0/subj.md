@@ -65,6 +65,11 @@ _A CSV configuration file format_
 Geometry
 --------
 
+- direction.xy
+[-CORW](https://github.com/dmparrishphd/direction.xy-CORW)
+[-WORM](https://github.com/dmparrishphd/direction.xy-WORM)
+_Compute Cartesian directions_
+
 [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 _Commentary on the book by Norman Wildberger_
 
