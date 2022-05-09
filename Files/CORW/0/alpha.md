@@ -264,6 +264,10 @@ S
 
 - [scratch](https://github.com/dmparrishphd/scratch)
 
+- seq_quadrance
+[-CORW](https://github.com/dmparrishphd/seq_quadrance-CORW)
+[-WORM](https://github.com/dmparrishphd/seq_quadrance-WORM)
+
 - Shapiro
 [main](https://github.com/dmparrishphd/Shapiro),
 [-CORA](https://github.com/dmparrishphd/Shapiro-CORA),
