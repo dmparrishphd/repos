@@ -309,6 +309,11 @@ U
 [-CORW](https://github.com/dmparrishphd/un-CORW)
 _logical negation_
 
+- unzip1
+[-CORW](https://github.com/dmparrishphd/unzip1-CORW)
+[-WORM](https://github.com/dmparrishphd/unzip1-WORM)
+_Extract one file from a zip file_
+
 W
 -
 - wt
