@@ -207,10 +207,12 @@ _A palette for visualizing bathymetry_
 - panzoom
 [-CORW](https://github.com/dmparrishphd/panzoom-CORW)
 [-WORM](https://github.com/dmparrishphd/panzoom-WORM)
+_pan and zoom in the R user coordinate space_
 
 - parp
 [-CORW](https://github.com/dmparrishphd/parp-CORW)
 [-WORM](https://github.com/dmparrishphd/parp-WORM)
+_compute on the graphical parameters_
 
 - [Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
