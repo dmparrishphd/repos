@@ -93,6 +93,11 @@ _tabulate information for discrete Voronoi diagrams_
 [-WORM](https://github.com/dmparrishphd/direction.xy-WORM)
 _Compute Cartesian directions_
 
+- duff
+[-CORW](https://github.com/dmparrishphd/duff-CORW)
+[-WORM](https://github.com/dmparrishphd/duff-WORM)
+_Find files named by UUID_
+
 E
 -
 
