@@ -274,6 +274,7 @@ S
 - seq_quadrance
 [-CORW](https://github.com/dmparrishphd/seq_quadrance-CORW)
 [-WORM](https://github.com/dmparrishphd/seq_quadrance-WORM)
+_Compute quadrances between successive points_
 
 - Shapiro
 [main](https://github.com/dmparrishphd/Shapiro),
