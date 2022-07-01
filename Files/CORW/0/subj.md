@@ -27,7 +27,7 @@ jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
 _Convert Julian Day Number to proleptic Gregorian calendar date_
 
 
-Code
+<a id = "code" >Code</a>
 ----
 
 [cleaneR code](https://github.com/dmparrishphd/cleaneR-code-CORW)
@@ -135,4 +135,4 @@ _Capture mouse clicks in R_
 Source Code
 -----------
 
-_See_ Code.
+_See_ <a href = "#code">Code</a>.
