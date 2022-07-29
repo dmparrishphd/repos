@@ -214,6 +214,11 @@ _pan and zoom in the R user coordinate space_
 [-WORM](https://github.com/dmparrishphd/parp-WORM)
 _compute on the graphical parameters_
 
+- peakChroma
+[-CORW](https://github.com/dmparrishphd/peakChroma-CORW)
+[-WORM](https://github.com/dmparrishphd/peakChroma-WORM)
+_compute peak chroma for a given hue and luma_
+
 - [Python-3-Text-Processing](https://github.com/dmparrishphd/Python-3-Text-Processing)
 
 ### Program for Universal Computational Freedom, The
