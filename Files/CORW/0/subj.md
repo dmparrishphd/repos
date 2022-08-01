@@ -39,7 +39,7 @@ code-katas
 Color
 -----
 
-pal
+- pal
 ([main](https://github.com/dmparrishphd/pal-CORW),
 [-CORW](https://github.com/dmparrishphd/pal-CORW),
 [-WORM](https://github.com/dmparrishphd/pal-WORM))
