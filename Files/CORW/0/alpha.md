@@ -152,6 +152,7 @@ I
 - instantsToMoments
 [-CORW](https://github.com/dmparrishphd/instantsToMoments-CORW)
 [-WORM](https://github.com/dmparrishphd/instantsToMoments-WORM)
+_Estimate intervals associated with distinct points_
 
 - isLeapYear-Py
 [-CORW](https://github.com/dmparrishphd/isLeapYear-Py-CORW)
