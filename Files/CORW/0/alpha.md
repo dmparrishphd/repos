@@ -149,6 +149,10 @@ I
 [-CORW](https://github.com/dmparrishphd/include-py-CORW)
 [-WORM](https://github.com/dmparrishphd/include-py-WORM)
 
+- instantsToMoments
+[-CORW](https://github.com/dmparrishphd/instantsToMoments-CORW)
+[-WORM](https://github.com/dmparrishphd/instantsToMoments-WORM)
+
 - isLeapYear-Py
 [-CORW](https://github.com/dmparrishphd/isLeapYear-Py-CORW)
 [-WORM](https://github.com/dmparrishphd/isLeapYear-Py-WORM)
