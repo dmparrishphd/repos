@@ -45,6 +45,11 @@ pal
 [-WORM](https://github.com/dmparrishphd/pal-WORM))
 _various color palettes_
 
+- peakChroma
+[-CORW](https://github.com/dmparrishphd/peakChroma-CORW)
+[-WORM](https://github.com/dmparrishphd/peakChroma-WORM)
+_compute peak chroma for a given hue and luma_
+
 Environments
 ------------
 
