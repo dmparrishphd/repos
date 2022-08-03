@@ -13,6 +13,11 @@ A
 [-WORM](https://github.com/dmparrishphd/aha-WORM)
 _AHA: an antihierarchical workflow for filing in hierarchical file systems_
 
+- argswap
+[-CORW](https://github.com/dmparrishphd/argswap-CORW)
+[-WORM](https://github.com/dmparrishphd/argswap-WORM)
+_swap the first two arguments of a function_
+
 - aRith
 [-CORW](https://github.com/dmparrishphd/aRith)
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
