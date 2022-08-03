@@ -67,6 +67,14 @@ File Formats
 [cfgcsv](https://github.com/dmparrishphd/cfgcsv-CORW)
 _A CSV configuration file format_
 
+Functional Programming
+----------------------
+
+- argswap
+[-CORW](https://github.com/dmparrishphd/argswap-CORW)
+[-WORM](https://github.com/dmparrishphd/argswap-WORM)
+_swap the first two arguments of a function_
+
 Geometry
 --------
 
