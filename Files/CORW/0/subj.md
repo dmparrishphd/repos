@@ -26,6 +26,10 @@ _Compute whether a given year is a leap year on the proleptic Gregorian calendar
 jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
 _Convert Julian Day Number to proleptic Gregorian calendar date_
 
+Class
+-----
+
+_See_ <a href = "#types">Types</a>.
 
 <a id = "code" >Code</a>
 ----
@@ -144,6 +148,15 @@ Mouse
 
 [click](https://github.com/dmparrishphd/click)
 _Capture mouse clicks in R_
+
+<a id = "types">Types</a>
+-------------------------
+
+- kinds
+[-CORW](https://github.com/dmparrishphd/kinds-CORW)
+[-WORM](https://github.com/dmparrishphd/kinds-WORM)
+_Extract type information._
+
 
 Source Code
 -----------
