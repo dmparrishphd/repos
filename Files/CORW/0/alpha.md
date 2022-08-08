@@ -178,7 +178,7 @@ K
 - kinds
 [-CORW](https://github.com/dmparrishphd/kinds-CORW)
 [-WORM](https://github.com/dmparrishphd/kinds-WORM)
-_extract type information_
+_Extract type information._
 
 M
 -
