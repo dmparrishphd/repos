@@ -172,6 +172,14 @@ J
 - jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
 _Convert Julian Day Number to proleptic Gregorian calendar date_
 
+K
+-
+
+- kinds
+[-CORW](https://github.com/dmparrishphd/kinds-CORW)
+[-WORM](https://github.com/dmparrishphd/kinds-WORM)
+_extract type information_
+
 M
 -
 
