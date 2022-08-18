@@ -177,3 +177,16 @@ Source Code
 -----------
 
 _See_ <a href = "#code">Code</a>.
+
+UUID
+----
+
+- duff
+[-CORW](https://github.com/dmparrishphd/duff-CORW)
+[-WORM](https://github.com/dmparrishphd/duff-WORM)
+_Find files named by UUID_
+
+- form-uuid4-31
+[-CORW](https://github.com/dmparrishphd/form-uuid4-31-CORW)
+[-WORM](https://github.com/dmparrishphd/form-uuid4-31-WORM)
+_A compact format for UUID4_
