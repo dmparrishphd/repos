@@ -125,6 +125,11 @@ refinePolyline
 [-WORM](https://github.com/dmparrishphd/refinePolyline-WORM))
 _create polylines with additional vertices_
 
+Lookup and Reference
+--------------------
+
+_See_ <a href = "#search">Search</a>
+
 Math
 ----
 
@@ -157,6 +162,16 @@ _Capture mouse clicks in R_
 [-WORM](https://github.com/dmparrishphd/kinds-WORM)
 _Extract type information._
 
+S
+=
+
+<a id = "search">Search</a>
+---------------------------
+
+- neighbors
+[-CORW](https://github.com/dmparrishphd/neighbors-CORW)
+[-WORM](https://github.com/dmparrishphd/neighbors-WORM)
+_Find numeric values in a sequence that are near other numeric values._
 
 Source Code
 -----------
