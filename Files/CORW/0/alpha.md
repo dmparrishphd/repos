@@ -202,9 +202,10 @@ _About the author_
 N
 -
 
-- [neighbors]
+- neighbors
 [-CORW](https://github.com/dmparrishphd/neighbors-CORW)
 [-WORM](https://github.com/dmparrishphd/neighbors-WORM)
+_Find numeric values in a sequence that are near other numeric values._
 
 - [neatOveRse](https://github.com/dmparrishphd/neatOveRse)
 
