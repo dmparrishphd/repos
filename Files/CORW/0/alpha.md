@@ -202,6 +202,10 @@ _About the author_
 N
 -
 
+- [neighbors]
+[-CORW](https://github.com/dmparrishphd/neighbors-CORW)
+[-WORM](https://github.com/dmparrishphd/neighbors-WORM)
+
 - [neatOveRse](https://github.com/dmparrishphd/neatOveRse)
 
 - nohurt
