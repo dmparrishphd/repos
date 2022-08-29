@@ -150,6 +150,7 @@ _Programs, etc. for the HP 35s Scientific Calculator_
 I
 -
 
+- improper
 [-CORW](https://github.com/dmparrishphd/improper-CORW)
 [-WORM](https://github.com/dmparrishphd/improper-WORM)
 _Compute representations of improper fractions._
