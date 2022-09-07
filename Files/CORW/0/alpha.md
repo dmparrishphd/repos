@@ -218,6 +218,10 @@ _Find numeric values in a sequence that are near other numeric values._
 [-CORW](https://github.com/dmparrishphd/nohurt-CORW)
 _HUman Readable Tables_
 
+- nse
+[-CORW](https://github.com/dmparrishphd/nse-CORW)
+[-WORM](https://github.com/dmparrishphd/nse-WORM)
+
 P
 -
 
