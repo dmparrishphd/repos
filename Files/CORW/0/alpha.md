@@ -221,6 +221,7 @@ _HUman Readable Tables_
 - nse
 [-CORW](https://github.com/dmparrishphd/nse-CORW)
 [-WORM](https://github.com/dmparrishphd/nse-WORM)
+_Compute the Nash–Sutcliffe model efficiency coefficient (NSE)._
 
 P
 -
