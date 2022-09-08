@@ -296,6 +296,12 @@ _create polylines with additional vertices_
 [-CORW](https://github.com/dmparrishphd/ring-buffer-CORW)
 _ring buffers_
 
+- rmse
+[-CORW](https://github.com/dmparrishphd/rmse-CORW)
+[-WORM](https://github.com/dmparrishphd/rmse-WORM)
+_Compute the root mean square error (RMSE)._
+
+
 - roundUp
 [-CORW](https://github.com/dmparrishphd/roundUp-CORW)
 _round up to nearest multiple_
