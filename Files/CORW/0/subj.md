@@ -1,7 +1,7 @@
 Listing of Selected Repositories by Subject
 ===========================================
 
-Arithmetic
+<a id = "arithmetic">Arithmetic</a>
 ----------
 
 aRith
@@ -9,7 +9,7 @@ aRith
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
 _arbitrary-precision integer arithmetic_
 
-Calendars
+<a id = "calendars">Calendars</a>
 ---------
 
 ### Gregorian calendar, proleptic
@@ -178,7 +178,7 @@ Source Code
 
 _See_ <a href = "#code">Code</a>.
 
-UUID
+<a id = "uuid">UUID</a>
 ----
 
 - duff
