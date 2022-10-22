@@ -1,12 +1,44 @@
-Alphabetical Listing of Selected Repositories
+<a id = "top">Alphabetical Listing of Selected Repositories</a>
 =============================================
+
+\| <a href = "#A">A</a>
+\| <a href = "#B">B</a>
+\| <a href = "#C">C</a>
+\| <a href = "#D">D</a>
+\| <a href = "#E">E</a>
+\| <a href = "#F">F</a>
+\| <a href = "#G">G</a>
+\| <a href = "#H">H</a>
+\| <a href = "#I">I</a>
+\| <a href = "#J">J</a>
+\| <a href = "#K">K</a>
+\| <a href = "#L">L</a>
+\| <a href = "#M">M</a>
+\| <a href = "#N">N</a>
+\| <a href = "#O">O</a>
+\| <a href = "#P">P</a>
+\| <a href = "#Q">Q</a>
+\| <a href = "#R">R</a>
+\| <a href = "#S">S</a>
+\| <a href = "#T">T</a>
+\| <a href = "#U">U</a>
+\| <a href = "#V">V</a>
+\| <a href = "#W">W</a>
+\| <a href = "#X">X</a>
+\| <a href = "#Y">Y</a>
+\| <a href = "#Z">Z</a>
+\|
+
+&zwj;
+-----
 
 _Repositories are listed by repository name. Abbreviations include
 [CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)_
 
+<a id = "A">A</a>
+-----------------
 
-A
--
+- \[<a href = "#top">TOP</a>\]
 
 - aha
 [-CORW](https://github.com/dmparrishphd/aha-CORW)
@@ -27,8 +59,10 @@ _swap the first two arguments of a function_
 [-WORM](https://github.com/dmparrishphd/aRith-WORM)
 _arbitrary-precision integer arithmetic_
 
-B
--
+<a id = "B">B</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - beyondDivineProportions
 ([main](https://github.com/dmparrishphd/beyondDivineProportions-CORW)
@@ -42,8 +76,10 @@ _notes on super-rational computational geometry_
 [-WORM](https://github.com/dmparrishphd/buildEnv-WORM))
 _Build R environments_
 
-C
--
+<a id = "C">C</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [cleaneR code](https://github.com/dmparrishphd/cleaneR-code-CORW)
 _Some tips for writing legible code, with emphasis on R_
@@ -72,8 +108,10 @@ _Capture mouse clicks in R_
 - code-katas
 [-CORW](https://github.com/dmparrishphd/code-katas-CORW)
 
-D
--
+<a id = "D">D</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [dayAfter](https://github.com/dmparrishphd/dayAfter-Py-CORW)
 [-CORW](https://github.com/dmparrishphd/dayAfter-Py-CORW)
@@ -107,8 +145,10 @@ _Compute Cartesian directions_
 [-WORM](https://github.com/dmparrishphd/duff-WORM)
 _Find files named by UUID_
 
-E
--
+<a id = "E">E</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [endnotesAndFootnotesAndParentheticalsOhMy](https://github.com/dmparrishphd/endnotesAndFootnotesAndParentheticalsOhMy)
 _Describes an alternative to endnotes, footnotes, or parenthetical notes_
@@ -119,8 +159,10 @@ _Describes an alternative to endnotes, footnotes, or parenthetical notes_
 [-WORM](https://github.com/dmparrishphd/exceRpt-WORM)
 _Extract specific lines from text files._
 
-F
--
+<a id = "F">F</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - fhexdigest
 [-CORW](https://github.com/dmparrishphd/fhexdigest-CORW)
@@ -137,22 +179,28 @@ _schemes for aesthetic font sizes_
 [-WORM](https://github.com/dmparrishphd/form-uuid4-31-WORM)
 _A compact format for UUID4_
 
-G
--
+<a id = "G">G</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - gd [-CORW](https://github.com/dmparrishphd/gd-CORW)
 _gd is not Markdown._
 
-H
--
+<a id = "H">H</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [home](https://github.com/dmparrishphd/home)
 
 - [HP35s](https://github.com/dmparrishphd/HP35s)
 _Programs, etc. for the HP 35s Scientific Calculator_
 
-I
--
+<a id = "I">I</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - improper
 [-CORW](https://github.com/dmparrishphd/improper-CORW)
@@ -175,22 +223,33 @@ _Compute whether a given year is a leap year on the proleptic Gregorian calendar
 
 - [ispRint](https://github.com/dmparrishphd/ispRint)
 
-J
--
+<a id = "J">J</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - jdnToGreg [-CORW](https://github.com/dmparrishphd/jdnToGreg)
 _Convert Julian Day Number to proleptic Gregorian calendar date_
 
-K
--
+<a id = "K">K</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - kinds
 [-CORW](https://github.com/dmparrishphd/kinds-CORW)
 [-WORM](https://github.com/dmparrishphd/kinds-WORM)
 _Extract type information._
 
-M
--
+<a id = "L">L</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
+<a id = "M">M</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - matchNearest
 [main](https://github.com/dmparrishphd/matchNearest-CORW),
@@ -208,8 +267,10 @@ _About the author_
 
 - [myVim](https://github.com/dmparrishphd/myVim)
 
-N
--
+<a id = "N">N</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - neighbors
 [-CORW](https://github.com/dmparrishphd/neighbors-CORW)
@@ -227,8 +288,15 @@ _HUman Readable Tables_
 [-WORM](https://github.com/dmparrishphd/nse-WORM)
 _Compute the Nash–Sutcliffe model efficiency coefficient (NSE)._
 
-P
--
+<a id = "O">O</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
+<a id = "P">P</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - pal
 [main](https://github.com/dmparrishphd/pal-CORW),
@@ -277,14 +345,18 @@ _Virtual Machines, etc._
 - [Python4th](https://github.com/dmparrishphd/Python4th)
 _Forth, written in Python 3_
 
-Q
--
+<a id = "Q">Q</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - quadrances [-WORM](https://github.com/dmparrishphd/quadrances)
 _compute quadrances between two sets of points._
 
-R
--
+<a id = "R">R</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - read.R_code
 [main](https://github.com/dmparrishphd/read.R_code),
@@ -320,8 +392,10 @@ _round up to nearest multiple_
 [-DYNA](https://github.com/dmparrishphd/running-DYNA),
 _running averages, etc._
 
-S
--
+<a id = "S">S</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [scratch](https://github.com/dmparrishphd/scratch)
 
@@ -355,8 +429,10 @@ _service mark and trademark_
 [-WORM](https://github.com/dmparrishphd/sv-WORM)
 _separated variables format_
 
-T
--
+<a id = "T">T</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - [testRepo](https://github.com/dmparrishphd/testRepo)
 
@@ -364,8 +440,10 @@ T
 [main](https://github.com/dmparrishphd/tRivia),
 [-CORW](https://github.com/dmparrishphd/tRivia-CORW)
 
-U
--
+<a id = "U">U</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
 
 - un
 [-CORW](https://github.com/dmparrishphd/un-CORW)
@@ -376,8 +454,16 @@ _logical negation_
 [-WORM](https://github.com/dmparrishphd/unzip1-WORM)
 _Extract one file from a zip file_
 
-W
--
+<a id = "V">V</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
+<a id = "W">W</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
 - wt
 [-CORW](https://github.com/dmparrishphd/wt-CORW),
 [-WORM](https://github.com/dmparrishphd/wt-WORM)
@@ -387,3 +473,18 @@ _A package dealing with weights, as in "weighted average"_
 [-WORM](https://github.com/dmparrishphd/words-WORM)
 [-CORW](https://github.com/dmparrishphd/words-CORW)
 _Create a character vector of words from a string._
+
+<a id = "X">X</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
+<a id = "Y">Y</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
+
+<a id = "Z">Z</a>
+-----------------
+
+- \[<a href = "#top">TOP</a>\]
