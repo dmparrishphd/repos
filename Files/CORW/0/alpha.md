@@ -13,6 +13,10 @@ A
 [-WORM](https://github.com/dmparrishphd/aha-WORM)
 _AHA: an antihierarchical workflow for filing in hierarchical file systems_
 
+- Ari
+[-CORW](https://github.com/dmparrishphd/Ari-CORW)
+_Ari, a virtual machine_
+
 - argswap
 [-CORW](https://github.com/dmparrishphd/argswap-CORW)
 [-WORM](https://github.com/dmparrishphd/argswap-WORM)
