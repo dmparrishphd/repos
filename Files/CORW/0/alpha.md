@@ -261,6 +261,12 @@ _compute peak chroma for a given hue and luma_
 - Project "G"
 [-CORW](https://github.com/dmparrishphd/pUCF-G-CORW)
 [-WORM](https://github.com/dmparrishphd/pUCF-G-WORM)
+_GIS, Computational Geometry, etc._
+
+- Project "V"
+[-CORW](https://github.com/dmparrishphd/pUCF-V-CORW)
+_Virtual Machines, etc._
+
 
 ### \*\*\*
 
