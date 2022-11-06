@@ -101,6 +101,7 @@ _apply functions to columns or rows of a matrix_
 [-WORM](https://github.com/dmparrishphd/cfgcsv-WORM)
 
 - [cIsForChildren](https://github.com/dmparrishphd/cIsForChildren)
+_draft material for another book like C Is For Children: My First Thirty-Two Keywords_
 
 - [click](https://github.com/dmparrishphd/click)
 _Capture mouse clicks in R_
