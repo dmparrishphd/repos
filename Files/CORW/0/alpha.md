@@ -37,7 +37,7 @@ _Repositories are listed by repository name. Abbreviations include
 
 <a id = "9">9</a>
 
-(97plus269errors)[https://github.com/dmparrishphd/97plus269errors]
+[97plus269errors](https://github.com/dmparrishphd/97plus269errors)
 _97 Plus 269 Errors Every Programmer Should Recognize_
 
 <a id = "A">A</a>
