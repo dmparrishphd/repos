@@ -35,6 +35,11 @@
 _Repositories are listed by repository name. Abbreviations include
 [CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)_
 
+<a id = "9">9</a>
+
+(97plus269errors)[https://github.com/dmparrishphd/97plus269errors]
+_97 Plus 269 Errors Every Programmer Should Recognize_
+
 <a id = "A">A</a>
 -----------------
 
