@@ -136,6 +136,11 @@ _(partial) implementation(s) of DEFLATE_
 
 - [DivineProportionsCommentary](https://github.com/dmparrishphd/DivineProportionsCommentary)
 
+- diff-cplff
+[-CORW](https://github.com/dmparrishphd/diff-cplff--CORW)
+[-WORM](https://github.com/dmparrishphd/diff-cplff--WORM)
+_Difference between continuous piecewise linear multifunctions_
+
 - discreteVoronoiDiagram
 [main](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
 [-CORW](https://github.com/dmparrishphd/discreteVoronoiDiagram-CORW)
