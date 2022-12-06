@@ -228,6 +228,11 @@ _Compute representations of improper fractions._
 [-WORM](https://github.com/dmparrishphd/instantsToMoments-WORM)
 _Estimate intervals associated with distinct points_
 
+- is.cplff
+[-CORW](https://github.com/dmparrishphd/is.cplff-CORW)
+[-WORM](https://github.com/dmparrishphd/is.cplff-WORM)
+_tell whether an object is a continuous piecewise linear multifunction_
+
 - isLeapYear-Py
 [-CORW](https://github.com/dmparrishphd/isLeapYear-Py-CORW)
 [-WORM](https://github.com/dmparrishphd/isLeapYear-Py-WORM)
