@@ -54,6 +54,19 @@ _various color palettes_
 [-WORM](https://github.com/dmparrishphd/peakChroma-WORM)
 _compute peak chroma for a given hue and luma_
 
+Continuous Piecewise Linear Functions / Multifunctions
+------------------------------------------------------
+
+- is.cplff
+[-CORW](https://github.com/dmparrishphd/is.cplff-CORW)
+[-WORM](https://github.com/dmparrishphd/is.cplff-WORM)
+_tell whether an object is a continuous piecewise linear multifunction_
+
+- diff-cplff
+[-CORW](https://github.com/dmparrishphd/diff-cplff--CORW)
+[-WORM](https://github.com/dmparrishphd/diff-cplff--WORM)
+_Difference between continuous piecewise linear multifunctions_
+
 Environments
 ------------
 
