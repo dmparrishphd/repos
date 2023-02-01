@@ -1,6 +1,16 @@
 <a id = "top">Alphabetical Listing of Selected Repositories</a>
 =============================================
 
+\| <a href = "#0">A</a>
+\| <a href = "#1">A</a>
+\| <a href = "#2">A</a>
+\| <a href = "#3">A</a>
+\| <a href = "#4">A</a>
+\| <a href = "#5">A</a>
+\| <a href = "#6">A</a>
+\| <a href = "#7">A</a>
+\| <a href = "#8">A</a>
+\| <a href = "#9">A</a>
 \| <a href = "#A">A</a>
 \| <a href = "#B">B</a>
 \| <a href = "#C">C</a>
@@ -34,6 +44,33 @@
 
 _Repositories are listed by repository name. Abbreviations include
 [CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)_
+
+<a id = "0">9</a>
+-----------------
+
+<a id = "1">9</a>
+-----------------
+
+<a id = "2">9</a>
+-----------------
+
+<a id = "3">9</a>
+-----------------
+
+<a id = "4">9</a>
+-----------------
+
+<a id = "5">9</a>
+-----------------
+
+<a id = "6">9</a>
+-----------------
+
+<a id = "7">9</a>
+-----------------
+
+<a id = "8">9</a>
+-----------------
 
 <a id = "9">9</a>
 -----------------
