@@ -45,31 +45,31 @@
 _Repositories are listed by repository name. Abbreviations include
 [CORA, CORW, DYNA, and WORM](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)_
 
-<a id = "0">9</a>
+<a id = "0">0</a>
 -----------------
 
-<a id = "1">9</a>
+<a id = "1">1</a>
 -----------------
 
-<a id = "2">9</a>
+<a id = "2">2</a>
 -----------------
 
-<a id = "3">9</a>
+<a id = "3">3</a>
 -----------------
 
-<a id = "4">9</a>
+<a id = "4">4</a>
 -----------------
 
-<a id = "5">9</a>
+<a id = "5">5</a>
 -----------------
 
-<a id = "6">9</a>
+<a id = "6">6</a>
 -----------------
 
-<a id = "7">9</a>
+<a id = "7">7</a>
 -----------------
 
-<a id = "8">9</a>
+<a id = "8">8</a>
 -----------------
 
 <a id = "9">9</a>
