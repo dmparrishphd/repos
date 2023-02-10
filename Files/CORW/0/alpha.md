@@ -228,6 +228,11 @@ _schemes for aesthetic font sizes_
 [-WORM](https://github.com/dmparrishphd/form-uuid4-31-WORM)
 _A compact format for UUID4_
 
+- fss
+[-CORW](https://github.com/dmparrishphd/fss-CORW)
+[-WORM](https://github.com/dmparrishphd/fss-WORM)
+_simple encapsulation for command-line commands_
+
 <a id = "G">G</a>
 -----------------
 
