@@ -258,6 +258,7 @@ _Programs, etc. for the HP 35s Scientific Calculator_
 
 - i-can-readline
 [-CORW](https://github.com/dmparrishphd/i-can-readline-CORW)
+[-WORM](https://github.com/dmparrishphd/i-can-readline-WORM)
 
 - improper
 [-CORW](https://github.com/dmparrishphd/improper-CORW)
