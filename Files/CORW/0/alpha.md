@@ -256,6 +256,9 @@ _Programs, etc. for the HP 35s Scientific Calculator_
 
 - \[<a href = "#top">TOP</a>\]
 
+- i-can-readline
+[-CORW](https://github.com/dmparrishphd/i-can-readline-CORW)
+
 - improper
 [-CORW](https://github.com/dmparrishphd/improper-CORW)
 [-WORM](https://github.com/dmparrishphd/improper-WORM)
