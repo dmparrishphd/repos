@@ -202,6 +202,9 @@ _Find files named by UUID_
 - [endnotesAndFootnotesAndParentheticalsOhMy](https://github.com/dmparrishphd/endnotesAndFootnotesAndParentheticalsOhMy)
 _Describes an alternative to endnotes, footnotes, or parenthetical notes_
 
+- enumerateRepeatedValues
+[-CORW](https://github.com/dmparrishphd/enumerateRepeatedValues-CORW)
+
 - exceRpt
 [main](https://github.com/dmparrishphd/exceRpt)
 [-CORW](https://github.com/dmparrishphd/exceRpt)
