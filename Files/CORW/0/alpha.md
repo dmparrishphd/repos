@@ -204,6 +204,7 @@ _Describes an alternative to endnotes, footnotes, or parenthetical notes_
 
 - enumerateRepeatedValues
 [-CORW](https://github.com/dmparrishphd/enumerateRepeatedValues-CORW)
+[-WORM](https://github.com/dmparrishphd/enumerateRepeatedValues-WORM)
 _Enumerate repeated values_
 
 - exceRpt
