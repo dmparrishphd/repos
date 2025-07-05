@@ -52,6 +52,7 @@ _AHA: an antihierarchical workflow for filing in hierarchical file systems_
 
 - Ari
 [-CORW](https://github.com/dmparrishphd/Ari-CORW)
+[-WORM](https://github.com/dmparrishphd/Ari-WORM)
 _Ari, a virtual machine_
 
 - argswap
